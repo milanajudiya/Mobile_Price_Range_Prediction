@@ -12,14 +12,27 @@ In the competitive mobile phone market companies want to understand sales data o
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book: Support Vectore Machine Classifier </h2>
+Support vector machine is supervised learning algorithm uses for both regression and classification. It is basically represent different classes in hyperplane. SVM devide the dataset into classes to find maximum marginal hyperplane. Support vectore machine classifier is gives the best result for this dataset.
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :clipboard: Execution Instruction</h2>
+Mobile Price Range Prediction.ipynb file is Google colab file that can be run directly on google colab and this file can also be download and run on localy using VS code or Jupyter notebook.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :book: Conclusion </h2>
+<h2> :book: Steps Performed and Conclusion </h2>
+
+As first step performed data wrangling, data preprocessing, and check for the missing value in dataset.
+
+Performed EDA to observe trend and relation between features.
+
+For model prediction splits the data into training and test data.
+
+Trained the training data on different algorithm as random forest classifier, xg-boost, gradient boosting, logistic regression and Support vector machine classifier.
+
+Support vectore machine Classifier gives the Accuracy of 97% on test data.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
