@@ -11,8 +11,8 @@ In the competitive mobile phone market companies want to understand sales data o
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :book: Support Vectore Machine Classifier </h2>
-Support vector machine is supervised learning algorithm uses for both regression and classification. It is basically represent different classes in hyperplane. SVM devide the dataset into classes to find maximum marginal hyperplane. Support vectore machine classifier is gives the best result for this dataset.
+<h2> :book: Support Vector Machine Classifier </h2>
+Support vector machine is supervised learning algorithm uses for both regression and classification. It is basically represent different classes in hyperplane. SVM divide the dataset into classes to find maximum marginal hyperplane. Support vectore machine classifier gives the best result for this dataset.
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -28,18 +28,18 @@ As first step performed data wrangling, data preprocessing, and check for the mi
 
 Performed EDA to observe trend and relation between features.
 
-For model prediction splits the data into training and test data.
-
 Trained the training data on different algorithm as random forest classifier, xg-boost, gradient boosting, logistic regression and Support vector machine classifier.
 
-Support vectore machine Classifier gives the Accuracy of 97% on test data.
+For model prediction splits the data into training and test data.
+
+Support vector machine Classifier gives the Accuracy of 97% on test data.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <h2 id="credits"> :scroll: Credits</h2>
 
-Milan Ajudiya | Data Scientist | Machine Learning Engineer | Data Science enthusiast
+Milan Ajudiya | Data Scientist | Machine Learning Engineer | Data Science Enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
